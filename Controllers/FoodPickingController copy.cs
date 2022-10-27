@@ -2,7 +2,7 @@
 //10-27-2022
 //RESTAURANT PICKER - ENDPOINT
 //THIS PROGRAM CONTAINS A CONTROLLER "FoodPickingController" THAT ALLOWS THE USER TO CHOOSE BETWEEN THREE DIFFERENT ARRAYS OF PLACES TO EAT, THE PROGRA CHOOSES A VALUE FROM ONE OF THESE ARRAYS RANDOMLY AND ALLOWS THE USER TO GET A NEW RANDOM ANSWER EVERY TIME THE PROGRAM IS RAN
-//PEER REVIEW BY : 
+//PEER REVIEW BY : Elizar Garcia, code works as intended. I really like the layout of this code, look very well organized and simple. very clean. the code shows up on postman with no problem. Great job!
 
 
 using Microsoft.AspNetCore.Mvc;
