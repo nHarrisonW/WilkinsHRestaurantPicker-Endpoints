@@ -1,6 +1,8 @@
 # WilkinsHRestaurantPicker-Endpoints
 
 THIS PROGRAM CONTAINS A CONTROLLER "FoodPickingController" THAT ALLOWS THE USER TO CHOOSE BETWEEN THREE DIFFERENT ARRAYS OF PLACES TO EAT, THE PROGRAM CHOOSES A VALUE FROM ONE OF THESE ARRAYS RANDOMLY AND ALLOWS THE USER TO GET A NEW RANDOM ANSWER EVERY TIME THE PROGRAM IS RAN.
+PEER REVIEW BY : Elizar Garcia, code works as intended. I really like the layout of this code, look very well organized and simple. very clean. the code shows up on postman with no problem. Great job!
+
 
 This program can be ran easily , setting up web API's is fun! First, after obtaining the repository link for this program you will find "FoodPickingController" in the explorer on the left. This is the only controller that is relevant for the project. It contains comments in the top regarding the project, although these comments are useless to the user
 
